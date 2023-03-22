@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  },
+  "name": "notofferup_backend",
+  "description": "Backed for the Not OfferUp MERN Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMassock/NotOfferUp_Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMassock/NotOfferUp_Backend/issues"
+  },
+  "homepage": "https://github.com/AMassock/NotOfferUp_Backend#readme"
+}
