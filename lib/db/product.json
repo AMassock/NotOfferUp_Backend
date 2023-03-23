@@ -1,39 +1,43 @@
   [
      {
-        "item": "",
-        "price": 200,
+        "item": "Jordan 4 Court Purples",
+        "price": 200.00,
         "description": "String",
-        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
+        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5019.JPG",
         "posted_at": 2021-01-01,
-        "title": "String"
+        "title": "Shoes"
     },
     {
-        "item": "",
-        "price": Number,
+        "item": "Yeezy 700 Wave Runner",
+        "price": 280.00,
         "description": "String",
-        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
+        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5020.JPG",
         "posted_at": 2021-01-01,
+        "title": "Shoes"
     },
     {
-        "item": "",
-        "price": Number,
+        "item": "Yeezy 500 Bone White",
+        "price": 130.00,
         "description": "String",
-        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
+        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5021.JPG",
         "posted_at": 2021-01-01,
+        "title": "Shoes"
     },
     {
-        "item": "",
-        "price": Number,
+        "item": "Yeezy DSRT Boot",
+        "price": 300.00,
         "description": "String",
-        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
-        "posted_at": 2021-01-01,    
+        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5022.jpg",
+        "posted_at": 2021-01-01,
+        "title": "Shoes"
     }
     {
-        "item": "",
-        "price": Number,
+        "item": "Jordan 5 Metalic Black",
+        "price": 80.00,
         "description": "String",
-        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
+        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5023.jpg",
         "posted_at": 2021-01-01,
+        "title": "Shoes"
     }
 ]
    

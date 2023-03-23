@@ -1,38 +1,38 @@
 [
     {
-        "title": "String",
+        "title": "Shoes",
+        "product": "Jordan 4 court purples",
+        "tag": "string"
+    },
+    {
+        "title": "Appliances",
+        "product": "String",
+        "tag": "string"
+    },
+    {
+        "title": "Electronics",
         "products": "String",
-        "tags": "string"
+        "tag": "string"
+    },
+    {
+        "title": "Household Itesms",
+        "products": "String",
+        "tag": "string"
+    },
+    {
+        "title": "",
+        "products": "String",
+        "tag": "string"
     },
     {
         "title": "String",
         "products": "String",
-        "tags": "string"
+        "tag": "string"
     },
     {
         "title": "String",
         "products": "String",
-        "tags": "string"
-    },
-    {
-        "title": "String",
-        "products": "String",
-        "tags": "string"
-    },
-    {
-        "title": "String",
-        "products": "String",
-        "tags": "string"
-    },
-    {
-        "title": "String",
-        "products": "String",
-        "tags": "string"
-    },
-    {
-        "title": "String",
-        "products": "String",
-        "tags": "string"
+        "tag": "string"
     },
     {
         "title": "String",
