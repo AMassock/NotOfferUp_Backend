@@ -5,37 +5,82 @@
         "tag": "string"
     },
     {
-        "title": "Appliances",
-        "product": "String",
+        "title": "Shoes",
+        "product": "Yeezy 700 Wave Runner",
         "tag": "string"
+    },
+    {
+        "title": "Shoes",
+        "products": "Yeezy 500 Bone White",
+        "tag": "string"
+    },
+    {
+        "title": "Shoes",
+        "products": "Yeezy DSRT Boot",
+        "tag": "string"
+    },
+    {
+        "title": "Shoes",
+        "products": "Jordan 5 Metalic Black",
+        "tags": "string"
+    },
+    {
+        "title": "Electronics",
+        "products": "Philip's TV",
+        "tags": "string"
+    },
+    {
+        "title": "Electronics",
+        "products": "Wifi Extender",
+        "tags": "string"
+    },
+     {
+        "title": "Electronics",
+        "products": "Printer Royal PX8",
+        "tags": "string"
     },
     {
         "title": "Electronics",
         "products": "String",
-        "tag": "string"
+        "tags": "string"
     },
     {
-        "title": "Household Itesms",
+        "title": "Appliances",
         "products": "String",
-        "tag": "string"
+        "tags": "string"
     },
     {
-        "title": "",
+        "title": "Appliances",
         "products": "String",
-        "tag": "string"
+        "tags": "string"
     },
     {
-        "title": "String",
+        "title": "Appliances",
         "products": "String",
-        "tag": "string"
+        "tags": "string"
     },
     {
-        "title": "String",
+        "title": "Appliances",
         "products": "String",
-        "tag": "string"
+        "tags": "string"
     },
     {
-        "title": "String",
+        "title": "Video Games",
+        "products": "String",
+        "tags": "string"
+    },
+    {
+        "title": "Video Games",
+        "products": "String",
+        "tags": "string"
+    },
+    {
+        "title": "Video Games",
+        "products": "String",
+        "tags": "string"
+    },
+    {
+        "title": "Video Games",
         "products": "String",
         "tags": "string"
     }
