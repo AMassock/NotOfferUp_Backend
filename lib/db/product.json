@@ -1,0 +1,39 @@
+  [
+     {
+        "item": "",
+        "price": 200,
+        "description": "String",
+        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
+        "posted_at": 2021-01-01,
+        "title": "String"
+    },
+    {
+        "item": "",
+        "price": Number,
+        "description": "String",
+        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
+        "posted_at": 2021-01-01,
+    },
+    {
+        "item": "",
+        "price": Number,
+        "description": "String",
+        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
+        "posted_at": 2021-01-01,
+    },
+    {
+        "item": "",
+        "price": Number,
+        "description": "String",
+        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
+        "posted_at": 2021-01-01,    
+    }
+    {
+        "item": "",
+        "price": Number,
+        "description": "String",
+        "product image": "https://www.w3schools.com/howto/img_burger.jpg",
+        "posted_at": 2021-01-01,
+    }
+]
+   
