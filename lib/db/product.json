@@ -71,10 +71,10 @@
     },
     {
         "title": "Appliances",
-        "item": "",
-        "price": 50.00,
-        "description": "String",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5036.jpg",
+        "item": "Handheld Car Vacuuum",
+        "price": 40.00,
+        "description": "Its pretty strong, best used for Trucks I'd say",
+        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5041.jpg",
     },
     {
         "title": "Appliances",
