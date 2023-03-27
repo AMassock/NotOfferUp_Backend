@@ -46,42 +46,42 @@
     },
     {
         "title": "Appliances",
-        "products": "String",
+        "products": "Handheld Car Vacuum",
         "tags": "string"
     },
     {
         "title": "Appliances",
-        "products": "String",
+        "products": "Fridge",
         "tags": "string"
     },
     {
         "title": "Appliances",
-        "products": "String",
+        "products": "Uv Light",
         "tags": "string"
     },
     {
         "title": "Appliances",
-        "products": "String",
+        "products": "Ninja Blender",
         "tags": "string"
     },
     {
         "title": "Video Games",
-        "products": "String",
+        "products": "Dragonball Xenoverse 2",
         "tags": "string"
     },
     {
         "title": "Video Games",
-        "products": "String",
+        "products": "Uncharted",
         "tags": "string"
     },
     {
         "title": "Video Games",
-        "products": "String",
+        "products": "Cod Blackops 3",
         "tags": "string"
     },
     {
         "title": "Video Games",
-        "products": "String",
+        "products": "Jump Force",
         "tags": "string"
     }
 ]
