@@ -1,101 +1,100 @@
-  [
-     {
-        "title": "Shoes",
-        "item": "Jordan 4 Court Purples",
-        "price": 200.00,
-        "description": "Jordan 4 Court Purples Size 10 looking for asking price but negotiable.",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5019.JPG",
-        "posted_at": "2021-01-01"
-    },
-    {
-        "title": "Shoes",
-        "item": "Yeezy 700 Wave Runner",
-        "price": 280.00,
-        "description": "Yeezy 700 Wave Runner Size 10.5 condition is slightliy used.",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5020.JPG",
-        "posted_at": "2021-01-01"
-    },
-    {
-        "title": "Shoes",
-        "item": "Yeezy 500 Bone White",
-        "price": 130.00,
-        "description": "pretty used but looking for offers comes with original box size 10.5.",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5021.JPG",
-        "posted_at": "2021-01-01"
-    },
-    {
-        "title": "Shoes",
-        "item": "Yeezy DSRT Boot",
-        "price": 300.00,
-        "description": "Slightly used Great condition size 11 runs small so fits about a size 10.",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5022.jpg",
-        "posted_at": "2021-01-01"
-    },
-    {
-        "title": "Shoes",
-        "item": "Jordan 5 Metalic Black",
-        "price": 80.00,
-        "description": "Jordan 5 metalic Black Size 10 OG Blackk laces will be included but no box",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5023.jpg",
-        "posted_at": "2021-01-01"
-    },
-    {
-        "title": "Electronics",
-        "item": "Philip's TV",
-        "price": 60.00,
-        "description": "Looking for listing price but negotiable.",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5028.jpg",
-        "posted_at": "2021-01-01"
-    },
-    {
-        "title": "Electronics",
-        "item": "Wifi Extender",
-        "price": 15.00,
-        "description": "Wifi Extender inlcuding 5ft LAN cable",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5033.jpg",
-        "posted_at": "2021-01-01"
-    },
-    {
-        "title": "Electronics",
-        "item": "Printer Royal PX8",
-        "price": 50.00,
-        "description": "Looking to sell ASAP, negotiable!!!",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5034.jpg"
-    },
-    {
-        "title": "Electronics",
-        "item": "Iphone Pad Charger",
-        "price": 10.00,
-        "description": "Charges Iphones & Airpods as well place your device in the center and the charger will light green.",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5037.jpg"
-    },
-    {
-        "title": "Appliances",
-        "item": "Handheld Car Vacuuum",
-        "price": 40.00,
-        "description": "Its pretty strong, best used for Trucks I'd say",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5041.jpg"
-    },
-    {
-        "title": "Appliances",
-        "item": "Fridge",
-        "price": 300.00,
-        "description": "Doesnt fit in our new place need gone ASAP",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5038.jpg"
-    },
-    {
-        "title": "Appliances",
-        "item": "",
-        "price": 50.00,
-        "description": "String",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5034.jpg"
-    },
-    {
-        "title": "Appliances",
-        "item": "",
-        "price": 50.00,
-        "description": "String",
-        "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5033.jpg"
-    }
+[
+  {
+    "title": "Shoes",
+    "item": "Jordan 4 Court Purples",
+    "price": 200.0,
+    "description": "Jordan 4 Court Purples Size 10 looking for asking price but negotiable.",
+    "image": "https://imgur.com/a/x3ZpiCK",
+    "posted_at": "2021-01-01"
+  },
+  {
+    "title": "Shoes",
+    "item": "Yeezy 700 Wave Runner",
+    "price": 280.0,
+    "description": "Yeezy 700 Wave Runner Size 10.5 condition is slightliy used.",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5020.JPG",
+    "posted_at": "2021-01-01"
+  },
+  {
+    "title": "Shoes",
+    "item": "Yeezy 500 Bone White",
+    "price": 130.0,
+    "description": "pretty used but looking for offers comes with original box size 10.5.",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5021.JPG",
+    "posted_at": "2021-01-01"
+  },
+  {
+    "title": "Shoes",
+    "item": "Yeezy DSRT Boot",
+    "price": 300.0,
+    "description": "Slightly used Great condition size 11 runs small so fits about a size 10.",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5022.jpg",
+    "posted_at": "2021-01-01"
+  },
+  {
+    "title": "Shoes",
+    "item": "Jordan 5 Metalic Black",
+    "price": 80.0,
+    "description": "Jordan 5 metalic Black Size 10 OG Blackk laces will be included but no box",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5023.jpg",
+    "posted_at": "2021-01-01"
+  },
+  {
+    "title": "Electronics",
+    "item": "Philip's TV",
+    "price": 60.0,
+    "description": "Looking for listing price but negotiable.",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5028.jpg",
+    "posted_at": "2021-01-01"
+  },
+  {
+    "title": "Electronics",
+    "item": "Wifi Extender",
+    "price": 15.0,
+    "description": "Wifi Extender inlcuding 5ft LAN cable",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5033.jpg",
+    "posted_at": "2021-01-01"
+  },
+  {
+    "title": "Electronics",
+    "item": "Printer Royal PX8",
+    "price": 50.0,
+    "description": "Looking to sell ASAP, negotiable!!!",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5034.jpg"
+  },
+  {
+    "title": "Electronics",
+    "item": "Iphone Pad Charger",
+    "price": 10.0,
+    "description": "Charges Iphones & Airpods as well place your device in the center and the charger will light green.",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5037.jpg"
+  },
+  {
+    "title": "Appliances",
+    "item": "Handheld Car Vacuuum",
+    "price": 40.0,
+    "description": "Its pretty strong, best used for Trucks I'd say",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5041.jpg"
+  },
+  {
+    "title": "Appliances",
+    "item": "Fridge",
+    "price": 300.0,
+    "description": "Doesnt fit in our new place need gone ASAP",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5038.jpg"
+  },
+  {
+    "title": "Appliances",
+    "item": "",
+    "price": 50.0,
+    "description": "String",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5034.jpg"
+  },
+  {
+    "title": "Appliances",
+    "item": "",
+    "price": 50.0,
+    "description": "String",
+    "product image": "/Users/gabrielmorales/sei/projects/NotOfferUp_Backend/product img/IMG-5033.jpg"
+  }
 ]
-   
