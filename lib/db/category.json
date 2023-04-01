@@ -1,87 +1,15 @@
 [
     {
-        "title": "Shoes",
-        "product": "Jordan 4 court purples",
-        "tag": "string"
+        "title": "Electronics"
     },
     {
-        "title": "Shoes",
-        "product": "Yeezy 700 Wave Runner",
-        "tag": "string"
+        "title": "Clothing & Shoes"
+    }, 
+    {
+        "title": "Appliances"
     },
     {
-        "title": "Shoes",
-        "products": "Yeezy 500 Bone White",
-        "tag": "string"
-    },
-    {
-        "title": "Shoes",
-        "products": "Yeezy DSRT Boot",
-        "tag": "string"
-    },
-    {
-        "title": "Shoes",
-        "products": "Jordan 5 Metalic Black",
-        "tags": "string"
-    },
-    {
-        "title": "Electronics",
-        "products": "Philip's TV",
-        "tags": "string"
-    },
-    {
-        "title": "Electronics",
-        "products": "Wifi Extender",
-        "tags": "string"
-    },
-     {
-        "title": "Electronics",
-        "products": "Printer Royal PX8",
-        "tags": "string"
-    },
-    {
-        "title": "Electronics",
-        "products": "Iphone Pad Charger",
-        "tags": "string"
-    },
-    {
-        "title": "Appliances",
-        "products": "Handheld Car Vacuum",
-        "tags": "string"
-    },
-    {
-        "title": "Appliances",
-        "products": "Fridge",
-        "tags": "string"
-    },
-    {
-        "title": "Appliances",
-        "products": "Uv Light",
-        "tags": "string"
-    },
-    {
-        "title": "Appliances",
-        "products": "Ninja Blender",
-        "tags": "string"
-    },
-    {
-        "title": "Video Games",
-        "products": "Dragonball Xenoverse 2",
-        "tags": "string"
-    },
-    {
-        "title": "Video Games",
-        "products": "Uncharted",
-        "tags": "string"
-    },
-    {
-        "title": "Video Games",
-        "products": "Cod Blackops 3",
-        "tags": "string"
-    },
-    {
-        "title": "Video Games",
-        "products": "Jump Force",
-        "tags": "string"
+        "title": "Random"
     }
 ]
+   
